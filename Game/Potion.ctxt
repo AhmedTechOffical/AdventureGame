@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Potion
+comment1.params=potionName\ rarity\ typeOfPotion\ effectivness
+comment1.target=Potion(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getTypeOfPotion()
+comment3.params=
+comment3.target=int\ getEffectivness()
+comment4.params=p
+comment4.target=void\ useItem(Player)
+numComments=5

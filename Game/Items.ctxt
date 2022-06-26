@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Items
+comment1.params=itemName\ rarity\ upgradebale
+comment1.target=Items(java.lang.String,\ java.lang.String,\ boolean)
+comment2.params=
+comment2.target=java.lang.String\ getRarity()
+comment3.params=
+comment3.target=boolean\ getUpgradeable()
+comment4.params=
+comment4.target=java.lang.String\ getItemName()
+comment5.params=item
+comment5.target=void\ informationAboutItem(Items)
+comment6.params=p
+comment6.target=void\ useItem(Player)
+numComments=7

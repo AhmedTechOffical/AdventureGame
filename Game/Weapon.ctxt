@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Weapon
+comment1.params=nameOfWeapon\ rarity\ durability\ damage
+comment1.target=Weapon(java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=int\ getDurability()
+comment3.params=
+comment3.target=int\ getDamage()
+comment4.params=durability
+comment4.target=void\ reduceDurability(int)
+comment5.params=p
+comment5.target=void\ useItem(Player)
+comment6.params=
+comment6.target=void\ checkIfItemDamaged()
+numComments=7

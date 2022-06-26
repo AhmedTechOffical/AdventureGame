@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Nation
+comment1.params=nationName\ nationLevel\ soldiers\ merchants
+comment1.target=Nation(java.lang.String,\ int,\ Fighter[],\ Trader[])
+comment2.params=
+comment2.target=java.lang.String\ getNationName()
+comment3.params=
+comment3.target=int\ getNationLevel()
+comment4.params=
+comment4.target=Fighter[]\ getSoldiers()
+comment5.params=
+comment5.target=Trader[]\ getMerchants()
+comment6.params=n\ level
+comment6.target=void\ increaseNationLevel(Nation,\ int)
+comment7.params=n
+comment7.target=void\ createWealth(Nation)
+comment8.params=n
+comment8.target=void\ viewTreasure(Nation)
+comment9.params=
+comment9.target=void\ printNationDetails()
+numComments=10

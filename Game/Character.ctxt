@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Character
+comment1.params=name\ XP_Level
+comment1.target=Character(java.lang.String,\ int)
+comment2.params=
+comment2.target=int\ getXP()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=c
+comment4.target=void\ fight(Character)
+comment5.params=newNation
+comment5.target=void\ setNation(Nation)
+comment6.params=
+comment6.target=Nation\ getCurrentNation()
+comment7.params=changeInLevel
+comment7.target=void\ levelUp(int)
+comment8.params=message
+comment8.target=void\ speak(java.lang.String)
+comment9.params=
+comment9.target=void\ getCharacterInfo()
+numComments=10
